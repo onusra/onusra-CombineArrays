@@ -10,6 +10,8 @@ public class CombineArrays {
     public static void main(String [] args){
 
     }
+
+    
     public int[] combine(int[] arr1, int[] arr2){
        int arr3[] = new int[(arr1.length ) + (arr2.length)];
        for(int i = 0; i < arr1.length; i++){
